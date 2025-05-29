@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### My GitHub Stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=hadinah&show_icons=true&theme=synthwave&hide=issues" height="150"/>
 <!--
 **hadinah/hadinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
