@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👩🏻‍💻 Hi! My name is Hadin AH, corrently a High School Studet, exploring the world of tech and programming!
 ### My GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=hadinah&show_icons=true&theme=synthwave&hide=issues" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadinah&hide_progress=true&layout=compact&theme=synthwave" height="150"/>
