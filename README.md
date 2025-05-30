@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hadinah/hadinah/main/banner.png" />
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/hadinah/hadinah/main/banner.png" 
+       onmouseover="this.src='https://raw.githubusercontent.com/hadinah/hadinah/main/banner.gif'" 
+       onmouseout="this.src='https://raw.githubusercontent.com/hadinah/hadinah/main/banner.png'" 
+       style="max-width: 100%;" />
+</a>
+
   <img src="https://komarev.com/ghpvc/?username=hadinah&color=0d6962&style=for-the-badge" alt="Profile Views Badge" />
 </p>
 
