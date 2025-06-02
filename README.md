@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hadinah&theme=blueberry-duo&exclude_days=Sun" alt="GitHub Streak" />
 </p>
 
-<img src="https://raw.githubusercontent.com/hadinah/hadinah/main/mario.png" alt="Static Banner" style="max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/hadinah/hadinah/main/mario.gif" alt="Static Banner" style="max-width: 100%;" />
 
 
 <!--## 
