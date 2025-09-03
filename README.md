@@ -8,7 +8,8 @@
 </p>
 
 <h3>
-  🎓 I'm currently a high school student on a journey through the world of <strong>technology</strong> and <strong>programming</strong>.  
+  🎓 I'm currently a high school student on a journey through the world of <strong>
+technology</strong> and <strong>programming</strong>.  
   I love exploring new tools, building cool stuff, and learning from real-world challenges.
 </h3>
 
@@ -22,7 +23,7 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadinah&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hadinah&theme=blueberry-duo&exclude_days=Sun" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hadinah&theme=blueberry-duo" alt="GitHub Streak" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/hadinah/hadinah/main/mario.gif" alt="Static Banner"/>
